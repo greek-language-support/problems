@@ -1,0 +1,3 @@
+When changing case of a word to lowercase, sigma in the final position is not changed to finalsigma.
+When changing case of a word to uppercase, accents are not removed.
+When changing case to uppercase, disjunctive ή does not keep accent.

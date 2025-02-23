@@ -1,0 +1,450 @@
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Arial Black Regular Version 5.23
+environment:
+- Windows 11
+- Arial Black Regular Version 5.23
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Caladea Bold Version 1.002
+environment:
+- Windows 11
+- Caladea Bold Version 1.002
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Caladea Italic Version 1.002
+environment:
+- Windows 11
+- Caladea Italic Version 1.002
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Caladea Italic Version 1.002
+environment:
+- Windows 11
+- Caladea Italic Version 1.002
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Caladea Regular Version 1.002
+environment:
+- Windows 11
+- Caladea Regular Version 1.002
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Candara Regular Version 5.64
+environment:
+- Windows 11
+- Candara Regular Version 5.64
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Candara Bold Version 5.64
+environment:
+- Windows 11
+- Candara Bold Version 5.64
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Candara Italic Version 5.64
+environment:
+- Windows 11
+- Candara Italic Version 5.64
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Candara Light Regular Version 5.64
+environment:
+- Windows 11
+- Candara Light Regular Version 5.64
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Candara Light Italic Version 5.64
+environment:
+- Windows 11
+- Candara Light Italic Version 5.64
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Candara Bold Italic Version 5.64
+environment:
+- Windows 11
+- Candara Bold Italic Version 5.64
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Comic Sans MS Regular Version 5.15
+environment:
+- Windows 11
+- Comic Sans MS Regular Version 5.15
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Comic Sans MS Bold Version 5.15
+environment:
+- Windows 11
+- Comic Sans MS Bold Version 5.15
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Comic Sans MS Italic Version 5.15
+environment:
+- Windows 11
+- Comic Sans MS Italic Version 5.15
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Comic Sans MS Bold Italic Version 5.15
+environment:
+- Windows 11
+- Comic Sans MS Bold Italic Version 5.15
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Constantia Regular Version 5.93
+environment:
+- Windows 11
+- Constantia Regular Version 5.93
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Constantia Bold Version 5.93
+environment:
+- Windows 11
+- Constantia Bold Version 5.93
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Constantia Italic Version 5.93
+environment:
+- Windows 11
+- Constantia Italic Version 5.93
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Constantia Bold Italic Version 5.93
+environment:
+- Windows 11
+- Constantia Bold Italic Version 5.93
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Corbel Regular Version 6.01
+environment:
+- Windows 11
+- Corbel Regular Version 6.01
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Corbel Bold Version 6.01
+environment:
+- Windows 11
+- Corbel Bold Version 6.01
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Corbel Italic Version 6.01
+environment:
+- Windows 11
+- Corbel Italic Version 6.01
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Corbel Light Regular Version 6.01
+environment:
+- Windows 11
+- Corbel Light Regular Version 6.01
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Corbel Light Italic Version 6.01
+environment:
+- Windows 11
+- Corbel Light Italic Version 6.01
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Corbel Bold Italic Version 6.01
+environment:
+- Windows 11
+- Corbel Bold Italic Version 6.01
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Georgia Regular Version 5.59
+environment:
+- Windows 11
+- Georgia Regular Version 5.59
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Georgia Bold Version 5.59
+environment:
+- Windows 11
+- Georgia Bold Version 5.59
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Georgia Italic Version 5.59
+environment:
+- Windows 11
+- Georgia Italic Version 5.59
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Georgia Bold Italic Version 5.59
+environment:
+- Windows 11
+- Georgia Bold Italic Version 5.59
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Impact Regular Version 5.11
+environment:
+- Windows 11
+- Impact Regular Version 5.11
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Lucida Console Regular Version 5.01
+environment:
+- Windows 11
+- Lucida Console Regular Version 5.01
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Lucida Sans Unicode Regular Version 5.01
+environment:
+- Windows 11
+- Lucida Sans Unicode Regular Version 5.01
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Palatino Linotype Regular Version 5.03
+environment:
+- Windows 11
+- Palatino Linotype Regular Version 5.03
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Palatino Linotype Bold Version 5.03
+environment:
+- Windows 11
+- Palatino Linotype Bold Version 5.03
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Palatino Linotype Bold Italic Version 5.03
+environment:
+- Windows 11
+- Palatino Linotype Bold Italic Version 5.03
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Palatino Linotype Italic Version 5.03
+environment:
+- Windows 11
+- Palatino Linotype Italic Version 5.03
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Segoe Print Regular Version 5.04
+environment:
+- Windows 11
+- Segoe Print Regular Version 5.04
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Segoe Print Bold Version 5.04
+environment:
+- Windows 11
+- Segoe Print Bold Version 5.04
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Segoe Script Regular Version 5.03
+environment:
+- Windows 11
+- Segoe Script Regular Version 5.03
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Segoe Script Bold Version 5.03
+environment:
+- Windows 11
+- Segoe Script Bold Version 5.03
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Segoe UI Black Regular Version 2.02
+environment:
+- Windows 11
+- Segoe UI Black Regular Version 2.02
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Segoe UI Black Italic Version 2.02
+environment:
+- Windows 11
+- Segoe UI Black Italic Version 2.02
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Trebuchet MS Regular Version 5.15
+environment:
+- Windows 11
+- Trebuchet MS Regular Version 5.15
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Trebuchet MS Bold Version 5.15
+environment:
+- Windows 11
+- Trebuchet MS Bold Version 5.15
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Trebuchet MS Bold Italic Version 5.15
+environment:
+- Windows 11
+- Trebuchet MS Bold Italic Version 5.15
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Trebuchet MS Italic Version 5.15
+environment:
+- Windows 11
+- Trebuchet MS Italic Version 5.15
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Verdana Regular Version 5.33
+environment:
+- Windows 11
+- Verdana Regular Version 5.33
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Verdana Bold Version 5.33
+environment:
+- Windows 11
+- Verdana Bold Version 5.33
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Verdana Italic Version 5.33
+environment:
+- Windows 11
+- Verdana Italic Version 5.33
+report date: '2025-02-23'
+reported by: zvr
+---
+bug: F-0c5f
+bug comment: missing Greek capital kai symbol
+bug in: Verdana Bold Italic Version 5.33
+environment:
+- Windows 11
+- Verdana Bold Italic Version 5.33
+report date: '2025-02-23'
+reported by: zvr

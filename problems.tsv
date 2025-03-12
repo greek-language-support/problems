@@ -7,3 +7,6 @@ F-b0e8	The font does not contain Greek glyphs.
 F-f61a	The font does not contain the lower case final sigma glyph.
 I-5aad	There is no key to input question mark.
 I-d024	There is no key to input ano teleia.
+P-10cd	When changing case of a word to lowercase, sigma in the final position is not changed to finalsigma.
+P-9973	When changing case to uppercase, disjunctive ή does not keep accent.
+P-d3dd	When changing case of a word to uppercase, accents are not removed.

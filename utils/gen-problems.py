@@ -7,6 +7,7 @@ CODES = {
     "E": "encoding",
     "F": "font",
     "I": "input",
+    "P": "processing"
 }
 
 def hash_line(line):
